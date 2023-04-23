@@ -14,3 +14,7 @@ The Django Diabetes Prediction System provides a useful tool for healthcare prof
 
 Conclusion:
 The Django Diabetes Prediction System is a valuable tool for diagnosing diabetes and managing the disease. With its user-friendly interface and advanced machine learning algorithms, the system provides accurate predictions and valuable insights for healthcare professionals and individuals alike.
+
+project by : Under the super vision of Dr Anuja Kumar Acharya
+Group members : Manas Singh (2006222) , Malak Zhere (2006459) , Mkdad Zhere (2006450)
+
